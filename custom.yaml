@@ -1,0 +1,16 @@
+path: '/content/gdrive/MyDrive/Al Nassr I.A./data'
+train: images/train # train images (relative to 'path') 128 images
+val: images/val
+test: # test images (optional)
+
+# Classes
+names:
+  0: "A"
+  1: "E"
+  2: "I"
+  3: "O"
+  4: "U"
+
+
+# Download script/URL (optional)
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco128.zip
