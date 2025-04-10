@@ -12,3 +12,8 @@ Los pasos para crear tu red neuronal y que permita identificar tus propias seña
 8. Posteriormente, solo tendrás que ir ejecutando los comandos uno por uno, hasta completar el entrenamiento.
 9. Luego, el archivo titulado "best.pt" se copiará en tu google drive. Este archivo lo descargarás y lo guardarás en una carpeta nueva que contenga todos los pasos anteriores, para que no se pierda y todo tu proyecto quede en un solo lugar (aquí no importa el nombre que le pongas).
 10. Finalmente abrirás el archivo llamado "inferencia.py", que también guardarás en la carpeta de tu proyecto. Ahora solo tendrás que ejecutar y ¡Listo! Tienes tu propio sistema de IA que detecta y traduce Lenguaje de Señas.
+
+
+*PUNTOS IMPORTANTES A CONSIDERAR*
+- La aplicación donde ejecutamos el código se llama Pycharm community edition 2022.3.1 (esta versión es gratuita).
+- El programa te pedirá instalar algunas librerías, las cuales se encuentran en la imagen "librerías" y que puedes buscar cómo descargar en internet para evitar complicaciones o dudas.
